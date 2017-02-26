@@ -1,7 +1,7 @@
 +++
 date = "2017-02-10"
 title = "不用逻辑流程图交流思想"
-draft = true
+draft = false
 description = ""
 tags        = ["逻辑", "流程图"]
 categories = [ "思索"]
@@ -14,7 +14,7 @@ categories = [ "思索"]
 ## 什么是逻辑流程图
 用图表示的算法就是流程图。流程图是用一些图框来表示各种类型的操作，在框内写出各个步骤，然后用带箭头的线把它们连接起来，以表示执行的先后顺序。
 
-![流程图样例](https://github.com/ssor/blogposts/raw/master/post/logic_flow.gif)
+![流程图样例](/img/logic_flow.gif)
 
 ## 为什么不用逻辑流程图
 

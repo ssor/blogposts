@@ -1,7 +1,7 @@
 +++
 date = "2013-05-13"
 title = "软件工程师在公司中的定位"
-draft = true
+draft = false
 description = "软件工程师在公司中如何确定自己的角色"
 tags        = ["软件工程师"]
 categories = [ "思索"]
